@@ -1,4 +1,4 @@
-package br.com.wiri.ecommerce_async_api.entities.models;
+package br.com.wiri.ecommerce_async_api.domain.models;
 
 import jakarta.persistence.*;
 

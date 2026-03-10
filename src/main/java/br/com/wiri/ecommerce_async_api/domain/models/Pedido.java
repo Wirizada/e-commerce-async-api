@@ -1,9 +1,8 @@
-package br.com.wiri.ecommerce_async_api.entities.models;
+package br.com.wiri.ecommerce_async_api.domain.models;
 
-import br.com.wiri.ecommerce_async_api.entities.enums.StatusPedido;
+import br.com.wiri.ecommerce_async_api.domain.enums.StatusPedido;
 import jakarta.persistence.*;
 
-import java.util.List;
 import java.util.Objects;
 import java.util.UUID;
 
