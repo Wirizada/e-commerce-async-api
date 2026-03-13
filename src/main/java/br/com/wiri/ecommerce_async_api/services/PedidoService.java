@@ -1,4 +1,4 @@
-package br.com.wiri.ecommerce_async_api.service;
+package br.com.wiri.ecommerce_async_api.services;
 
 import br.com.wiri.ecommerce_async_api.config.RabbitMQConfig;
 import br.com.wiri.ecommerce_async_api.dto.PedidoRequestDTO;

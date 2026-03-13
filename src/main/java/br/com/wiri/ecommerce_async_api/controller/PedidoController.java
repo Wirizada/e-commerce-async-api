@@ -1,7 +1,7 @@
 package br.com.wiri.ecommerce_async_api.controller;
 
 import br.com.wiri.ecommerce_async_api.dto.PedidoRequestDTO;
-import br.com.wiri.ecommerce_async_api.service.PedidoService;
+import br.com.wiri.ecommerce_async_api.services.PedidoService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
